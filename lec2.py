@@ -22,20 +22,20 @@
 # print(f"THE TOTAL NUMBER OF VOWELS ARE {c}")
 
 #------------------------------------------------------pb-16-------------------------------------
-f=open("fr4.txt")
+# f=open("fr4.txt")
 
 
-f2=open("fr5.txt","w+")
+# f2=open("fr5.txt","w+")
 
-for i in range(4):
-    x=f.readline()
-    y=x.find("#")
-    line=(x[:y].strip())
-    if line:
-        f2.write(line + "\n")
+# for i in range(4):
+#     x=f.readline()
+#     y=x.find("#")
+#     line=(x[:y].strip())
+#     if line:
+#         f2.write(line + "\n")
 
-f2.seek(0)
-z=f2.read()
-print(z)
-f.close()
-f2.close()
+# f2.seek(0)
+# z=f2.read()
+# print(z)
+# f.close()
+# f2.close()
