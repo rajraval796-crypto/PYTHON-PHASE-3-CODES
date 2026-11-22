@@ -3,6 +3,8 @@ import os
 # os.mkdir("CRICKET")
 # os.chdir(r"D:\PYTHON\Phase3\CRICKET")
 # print(os.getcwd())
-os.mkdir("IPL")
-os.mkdir("TEST")
-os.mkdir("ODI")
+# os.mkdir("IPL")
+# os.mkdir("TEST")
+# os.mkdir("ODI")
+for i in range(1,101):
+    print(f"LINE:{i}")
