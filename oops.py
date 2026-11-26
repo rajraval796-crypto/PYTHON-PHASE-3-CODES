@@ -24,21 +24,26 @@
 # x.faculty()
 # x.student()
 
+
+
 #------------------------------------------------ code 2 ------------------------------------------
 
+# class Calc:
+#     def __init__(self,a,b):
+#         self.a=a
+#         self.b=b
+#     def addition(self):
+#         print(f" THE ADDITION IS {self.a+self.b}")
 
-class Calc:
-    def __init__(self,a,b):
-        self.a=a
-        self.b=b
-    def addition(self):
-        print(f" THE ADDITION IS {self.a+self.b}")
-
-    def subtraction(self):
-        print(f" THE SUBTRACTION IS {self.a-self.b}")
+#     def subtraction(self):
+#         print(f" THE SUBTRACTION IS {self.a-self.b}")
        
-a=Calc(10,20)
-a.addition()
-a.subtraction()
-        
+# a=Calc(10,20)
+# a.addition()
+# a.subtraction()
+#----------------------------------------------- code 3 -------------------------------------------
+
+
+
+
         
